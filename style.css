@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color:antiquewhite;
 }
 .clock{
    position: relative;
